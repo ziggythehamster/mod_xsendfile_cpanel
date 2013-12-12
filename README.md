@@ -15,3 +15,6 @@ http://docs.cpanel.net/twiki/bin/view/EasyApache3/CustomMods
 If I don't pull in a newer release from upstream, you just need to change the .tar.gz
 to the latest one and the version numbers in the .pm file. Please send me a pull
 request if you do though.
+
+Updated to version 1.0 from: https://github.com/nmaier/mod_xsendfile
+

@@ -1,11 +1,11 @@
 package Cpanel::Easy::ModXSendfile;
 
 our $easyconfig = {
-    'version' => '0.12',
+    'version' => '1.0',
     'name'    => 'mod_xsendfile',
     'note'    => 'Apache module to send files efficiently',
     'url'     => 'https://tn123.org/mod_xsendfile/',
-    'src_cd2' => 'mod_xsendfile-0.12',
+    'src_cd2' => 'mod_xsendfile-1.0',
     'hastargz' => 1,
     'step'    => {
         '0' => {
